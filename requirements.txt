@@ -1,0 +1,11 @@
+Flask
+Flask-Cors # Useful for front-end integration
+python-dotenv # For managing environment variables
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+openai-whisper # The library for Whisper
+ffmpeg-python # A Pythonic wrapper for ffmpeg
+requests # To make API calls to Ollama

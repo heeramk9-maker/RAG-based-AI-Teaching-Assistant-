@@ -1,0 +1,5 @@
+You're trying to figure out where inline CSS was covered in our Sigma web development course.
+
+Inline CSS is mentioned in two different videos: "Heading, Paragraphs and Links" (video #4) at around 0:08-0:10 seconds, where it's referred to as "inline CSS", and again in the next video "Inline, Internal & External CSS" (#15) at timestamps 0:24-0:26 seconds and 0:36-0:37 seconds.
+
+If you're having trouble locating these topics, I'd recommend watching videos #4 and #15 of our course.
