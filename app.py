@@ -35,6 +35,11 @@ def allowed_file(filename):
     """
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+           
+@app.route('/')
+def home():
+    return "Flask server is running! Try /api/videos or /api/ask"
+
 
 @app.route('/api/upload_video', methods=['POST'])
 def upload_video():
